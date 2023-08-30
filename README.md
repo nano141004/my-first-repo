@@ -1,5 +1,5 @@
-Nama    : Kevin Ivan Eda Radhiyya
+Nama    : Mariano Gerardus Senduk
 
-NPM     : 2201233210
+NPM     : 2206814236
 
-Kelas   : PBP B
+Kelas   : PBP F
